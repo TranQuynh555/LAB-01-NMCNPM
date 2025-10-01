@@ -1,19 +1,24 @@
-Hello, my name is TranQuynh.  
-I am currently a Software Engineering student at [Your University].  
+Xin chào, tôi tên là Huỳnh Lưu Bảo Trân.
+Hiện tại tôi là sinh viên ngành Công nghệ đa phương tiện tại Học viện công nghệ bưu chính viễn thông.
 
-🔹 Interests:
-- Software requirements and system analysis  
-- Web and mobile application development  
-- Artificial Intelligence and Machine Learning  
+🔹 Sở thích:
 
-🔹 Skills:
-- Programming languages: Python, Java, JavaScript, SQL  
-- Tools: Git, Visual Studio Code, Jira, MySQL  
-- Development process: Agile - Scrum, Waterfall  
+Ứng dụng đa phương tiện và hệ thống tương tác
+Phát triển ứng dụng web và di động
+Học lập trình cơ bản và giải thuật
+Thử nghiệm các dự án nhỏ trên máy tính
+Khám phá công nghệ mới và ứng dụng thực tiễn
 
-🔹 Goals:
-- To become a professional software engineer  
-- To contribute to real-world software projects  
-- To keep learning about new technologies and trends in the IT industry  
+🔹 Kỹ năng:
 
-Thank you for reading my introduction.
+Ngôn ngữ lập trình cơ bản: Python, HTML, CSS
+Công cụ hỗ trợ học tập: Visual Studio Code, Git cơ bản
+Quản lý công việc: Ghi chú, sắp xếp nhiệm vụ, tự học
+
+🔹 Mục tiêu:
+
+Hiểu rõ kiến thức lập trình cơ bản
+Hoàn thành các bài tập và dự án đơn giản
+Tăng cường kỹ năng tự học và giải quyết vấn đề
+
+Cảm ơn vì đã đọc phần giới thiệu của chúng tôi.
