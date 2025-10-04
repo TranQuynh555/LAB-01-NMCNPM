@@ -26,14 +26,12 @@ Tôi là Huỳnh Lưu Bảo Trân, sinh viên đang học môn **Nhập môn Cô
   - Cơ sở dữ liệu: MySQL  
   - Công cụ: GitHub, Visual Studio Code  
 
----
 
 ##  Mục tiêu cá nhân
 - Nắm vững quy trình phát triển phần mềm theo mô hình Agile/Scrum.  
 - Thành thạo các kỹ năng **thiết kế UML**, **viết test case**, và **quản lý dự án với Jira & GitHub**.  
 - Tăng khả năng làm việc nhóm và giao tiếp kỹ thuật trong môi trường phát triển phần mềm.
 
----
 
 ##  Dự án nhóm: Hệ thống ATM
 
