@@ -5,6 +5,14 @@ Xin chào!
 Mình là Huỳnh Lưu Bảo Trân, sinh viên đang học môn **Nhập môn Công nghệ Phần mềm**.  
 Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
 
+##  Dự án nhóm: Hệ thống ATM
+
+Dự án được thực hiện trong khuôn khổ môn **Nhập môn Công nghệ Phần mềm** nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ **phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai**.
+
+🔗 **Link đến repository nhóm:**  
+[NMCNPM – ATM System](https://github.com/n23dcpt006-nbin/NMCNPM-ATM)
+
+
 ##  Mục tiêu học phần
 Áp dụng toàn bộ quy trình phát triển phần mềm — từ phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến quản lý dự án Agile — thông qua **Mini Project: Hệ thống ATM**.
 
@@ -17,13 +25,6 @@ Nội dung chính (tổng hợp các Lab)
 | **Lab 07** | Phát triển Module Rút tiền | Viết module `verify_pin()` và `withdraw()` (Python/Java + MySQL); xử lý giao dịch và kiểm tra số dư. |
 | **Lab 08** | Kiểm thử hệ thống | Viết Unit Test (pytest/JUnit) và Integration Test (Selenium); tạo báo cáo test pass/fail. |
 | **Lab 09** | Quản lý dự án Agile (Jira) | Tạo Project “ATM System”, lập Epic/User Stories, tạo Sprint, giao việc, theo dõi Burndown Chart và xuất báo cáo. |
-
-##  Dự án nhóm: Hệ thống ATM
-
-Dự án được thực hiện trong khuôn khổ môn **Nhập môn Công nghệ Phần mềm** nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ **phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai**.
-
-🔗 **Link đến repository nhóm:**  
-[NMCNPM – ATM System](https://github.com/n23dcpt006-nbin/NMCNPM-ATM)
 
 
 ##  Kết luận
