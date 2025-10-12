@@ -1,14 +1,9 @@
-
-
 ##  Thông tin chung
 Xin chào!  
-Mình là Huỳnh Lưu Bảo Trân, sinh viên đang học môn **Nhập môn Công nghệ Phần mềm**.  
-Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
+Mình là Huỳnh Lưu Bảo Trân. Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
 
 ##  Dự án nhóm: Hệ thống ATM
-
 Dự án được thực hiện trong khuôn khổ môn **Nhập môn Công nghệ Phần mềm** nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ **phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai**.
-
 🔗 **Link đến repository nhóm:** Các Labs của BT LAB-01-NMCNPM: 
 [NMCNPM – ATM System](https://github.com/n23dcpt006-nbin/NMCNPM-ATM)
 
