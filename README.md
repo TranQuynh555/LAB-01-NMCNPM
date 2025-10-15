@@ -1,7 +1,3 @@
-##  Thông tin chung
-Xin chào!  
-Mình là Huỳnh Lưu Bảo Trân. Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
-
 ##  Dự án nhóm: Hệ thống ATM
 
 🔗 **Link đến repository nhóm:** Các Labs của BT LAB-01-NMCNPM: 
