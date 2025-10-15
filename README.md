@@ -1,11 +1,11 @@
 ##  Dự án nhóm: Hệ thống ATM: Các Labs của BT LAB-01-NMCNPM
 
-🔗 **Link đến repository nhóm:** 
+#🔗 **Link đến repository nhóm:** 
 [NMCNPM – ATM System](https://github.com/n23dcpt006-nbin/NMCNPM-ATM)
 
 Dự án được thực hiện trong khuôn khổ môn **Nhập môn Công nghệ Phần mềm** nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ **phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai**.
 
-##  Mục tiêu học phần
+# Mục tiêu học phần
 Áp dụng toàn bộ quy trình phát triển phần mềm — từ phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến quản lý dự án Agile — thông qua **Mini Project: Hệ thống ATM**.
 
 Nội dung chính (tổng hợp các Lab)
